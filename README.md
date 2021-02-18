@@ -2,10 +2,7 @@
 ### I'm a 16 y/o student that loves coding
 
 ### Mainly I use those languages
-<img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/rust.png?token=AO4AIRBCW4PCRVG7CD44JF3AF3TIC"/>
-<img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/python.png?token=AO4AIRAH5SKSPRZYZJUCUKLAF3TKK">
-<img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/typescript.png?token=AO4AIRC4VZX44LEANVSCLSTAF3TL2">
-<img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/javascript.png?token=AO4AIRBSAFSU3ETWPLK2XHTAF3TMU">
+<img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/rust.png"/><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/python.png"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/typescript.png"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/javascript.png">
 
 ## Github Stats
 
