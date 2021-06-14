@@ -1,11 +1,11 @@
 ## Hi, i'm Alvaro
-### I'm a 16 y/o student that loves coding
+### I'm a 17 y/o student that loves coding
 
 ### Mainly I use those languages
-<code><a href="https://www.rust-lang.org/"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/rust.png"></a></code>
-<code><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/javascript.png"></code>
+<code><a href="https://www.rust-lang.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/rust.png"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/python.png"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/typescript.png"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/javascript.png"></a></code>
 
 ## Github Stats
 
