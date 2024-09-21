@@ -1,5 +1,5 @@
 ## Hi, i'm Alvaro
-### I'm a 19 y/o student that loves coding
+### I'm a 20 y/o student that loves coding
 
 ### Mainly I use those languages
 <code><a href="https://www.rust-lang.org/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AlvaroMS25/AlvaroMS_25/master/assets/rust.png"></a></code>
